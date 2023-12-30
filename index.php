@@ -38,7 +38,7 @@
                     <a href="#" class="btn-1">información</a>
                 </div>
                 <div class="header-img">
-                    <img src="images/left.png" alt="">
+                    <img src="images/medicos.png" alt="medicos">
                 </div>
             </div>
 
